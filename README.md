@@ -8,6 +8,7 @@ In order to run the program or interact with the several code blocks, please exe
 ```bash
 git clone https://github.com/lcsrodriguez/intro-ml-assignment.git
 cd intro-ml-assignment.git/
+python3 -m pip3 install -r requirements.txt
 jupyter-notebook assignment-1.ipynb
 ```
 
