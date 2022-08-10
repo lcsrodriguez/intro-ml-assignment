@@ -3,6 +3,9 @@
 
 ## Introduction
 
+This Git repo is the central point of all the resources used for the final project of the course **Introduction to Machine Learning**
+from *University of Bologna/Alma-Mater Studiorum*.
+
 In order to run the program or interact with the several code blocks, please execute the following commands :
 
 ```bash
