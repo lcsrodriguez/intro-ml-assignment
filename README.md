@@ -20,3 +20,4 @@ Asset files :
 ## Author
 
 Lucas RODRIGUEZ &bull; [lucas.rodriguez3@studio.unibo.it](mailto:lucas.rodriguez3@studio.unibo.it)
+Academic works : March - April 2022
